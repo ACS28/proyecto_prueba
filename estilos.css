@@ -1,0 +1,16 @@
+h1{
+    font-size: 36px;
+    color: #000;
+    font-family: 'Open Sans';
+    }
+a:active {
+    color: red;
+  }
+a:link { color: blue; }          /* Enlaces no visitados */
+a:visited { color: purple; }     /* Enlaces visitados */
+a:hover { background: yellow; }  /* El usuario esta sobre el enlace */
+a:active { color: lime; }        /* Enlaces activos */
+#destacado {color:red;}
+span.classy {
+    background-color: DodgerBlue;
+  }
