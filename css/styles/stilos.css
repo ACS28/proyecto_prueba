@@ -1,0 +1,11 @@
+h1{
+border: 5px solid burlywood;
+    }
+ .caja{
+    border: 5px solid green;
+    border-style: dotted;
+ }   
+ .borde{
+    border: 5px solid red;
+    border-style: groove;
+ }
